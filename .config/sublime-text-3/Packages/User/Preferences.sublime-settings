@@ -1,0 +1,25 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
+	"detect_indentation": false,
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"find_selected_text": true,
+	"font_face": "Inconsolata",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 12.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"soda_folder_icons": false,
+	"status_bar_brighter": true,
+	"tab_size": 2,
+	"theme": "Spacegray.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}
