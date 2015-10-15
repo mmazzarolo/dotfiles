@@ -1,0 +1,348 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"clien",
+				"clientSecret"
+			],
+			[
+				"se",
+				"secrets"
+			],
+			[
+				"boo",
+				"bookmark"
+			],
+			[
+				"bo",
+				"bookmark"
+			],
+			[
+				"bookmak",
+				"bookmarkController"
+			],
+			[
+				"bookma",
+				"Bookmark"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"remv",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 408.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/matteo/dev/bmproject"
+	],
+	"file_history":
+	[
+		"/home/matteo/.config/sublime-text-3/Packages/User/bookmarkpack-server.sublime-project",
+		"/home/matteo/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/matteo/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/matteo/dev/bmproject/middlewares/auth.js",
+		"/home/matteo/dev/bmproject/config/routes.js",
+		"/home/matteo/dev/bmproject/controllers/auth.js",
+		"/home/matteo/dev/bmproject/controllers/api.js",
+		"/home/matteo/dev/bmproject/package.json",
+		"/home/matteo/dev/bmproject/app.js",
+		"/home/matteo/dev/bmproject/models/User.js",
+		"/home/matteo/dev/bmproject/config/secrets.js",
+		"/home/matteo/dev/bmproject/views/account/profile.jade",
+		"/home/matteo/dev/bmproject/views/account/login.jade",
+		"/home/matteo/dev/bmproject/config/passport.js",
+		"/home/matteo/dev/bmproject/views/user.jade",
+		"/home/matteo/dev/bmproject/models/Bookmark.js",
+		"/home/matteo/dev/bmproject/views/bookmark.jade",
+		"/home/matteo/dev/bmproject/views/partials/header.jade",
+		"/home/matteo/dev/bmproject/controllers/bookmark.js",
+		"/home/matteo/dev/bmproject/controllers/user.js",
+		"/home/matteo/.dotfiles/makesymlinks.sh",
+		"/home/matteo/dev/bmproject/config/reserved.js",
+		"/home/matteo/dev/bmproject/views/404.jade",
+		"/home/matteo/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/matteo/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/matteo/dev/bmproject/views/account/forgot.jade",
+		"/home/matteo/dev/bmproject/.travis.yml",
+		"/home/matteo/dev/bmproject/README.md",
+		"/home/matteo/dev/bmproject/test/app.js",
+		"/home/matteo/dev/bmproject/test/models.js",
+		"/home/matteo/dev/bmproject/views/partials/footer.jade",
+		"/home/matteo/dev/bmproject/views/contact.jade",
+		"/home/matteo/dev/bmproject/views/home.jade",
+		"/home/matteo/dev/bmproject/views/layout.jade",
+		"/home/matteo/dev/bmproject/views/account/reset.jade",
+		"/home/matteo/dev/bmproject/views/account/signup.jade",
+		"/home/matteo/dev/bmproject/views/partials/flash.jade",
+		"/home/matteo/dev/bmproject/controllers/home.js",
+		"/home/matteo/dev/bmproject/controllers/contact.js",
+		"/home/matteo/dev/bmproject/models/Link.js",
+		"/home/matteo/dev/bmproject/views/account/detail.jade",
+		"/home/matteo/dev/bmproject/views/account/account.jade",
+		"/home/matteo/dev/bmproject/views/account/links.jade",
+		"/home/matteo/dev/bmproject/views/api/index.jade",
+		"/home/matteo/dev/bmproject/views/api/yahoo.jade",
+		"/home/matteo/dev/bmproject/setup.js",
+		"/home/matteo/somedevtips/_sass/_layout.scss",
+		"/home/matteo/somedevtips/about.md",
+		"/home/matteo/somedevtips/_posts/2015-08-24-capturing-an-mp4gif-of-your-device-screen.md",
+		"/home/matteo/somedevtips/_config.yml",
+		"/home/matteo/somedevtips/_posts/2015-08-18-introduction-to-arrays-in-android.md",
+		"/home/matteo/somedevtips/_posts/2015-08-25-implementing-a-basic-arrayadapter-with-listview.md",
+		"/home/matteo/somedevtips/_includes/comments.html",
+		"/home/matteo/somedevtips/_sass/_masthead.scss",
+		"/home/matteo/somedevtips/_sass/_code.scss",
+		"/home/matteo/somedevtips/_posts/2013-12-31-whats-jekyll.md",
+		"/home/matteo/somedevtips/_layouts/post.html",
+		"/home/matteo/somedevtips/_sass/_type.scss",
+		"/home/matteo/somedevtips/_sass/_syntax.scss",
+		"/home/matteo/somedevtips/_includes/head.html",
+		"/home/matteo/somedevtips/_sass/_base.scss",
+		"/home/matteo/somedevtips/_sass/_posts.scss",
+		"/home/matteo/somedevtips/_layouts/page.html",
+		"/home/matteo/somedevtips/archive.md",
+		"/home/matteo/somedevtips/_layouts/default.html",
+		"/home/matteo/somedevtips/_posts/2015-08-18-introduction-to-arrays-n-android.md"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"config",
+			"req.user",
+			"session",
+			"serializeUser",
+			"param",
+			"isAuthorized",
+			"passportConf",
+			"new e",
+			"new",
+			"Error",
+			"null",
+			"isnot",
+			"error",
+			"user",
+			"hack",
+			"api",
+			"querystring",
+			"profile",
+			"detail",
+			"profile",
+			"user.profile",
+			"profile",
+			"user.profile",
+			"profile",
+			"OAuth2Strategy",
+			"graph",
+			"fbgraph",
+			"request",
+			"querystring",
+			"validator",
+			"output of",
+			"</pre>",
+			"&lt;",
+			"&#8230;",
+			"&#8217;",
+			"mdlwp"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"user",
+			"{% endhighlight %}",
+			"<",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 110.0
+	},
+	"pinned_build_system": "",
+	"project": "bookmarkpack-server.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
