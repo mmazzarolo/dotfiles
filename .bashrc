@@ -119,3 +119,8 @@ fi
 
 # Set title tab in node
 set_title() { printf "\e]2;$*\a"; }
+
+# Export
+export PATH=${PATH}:~/android-sdk-linux/tools
+export PATH=${PATH}:~/android-sdk-linux/platform-tools
+
